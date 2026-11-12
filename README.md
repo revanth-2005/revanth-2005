@@ -10,7 +10,28 @@ I build scalable web applications, mobile applications, and backend systems.
 - ☁️ Currently learning AWS, Docker, and DevOps.
 - 🚀 Passionate about building real-world products and solving problems.
 
-### Let's Connect
-- LinkedIn: [Your LinkedIn URL](#)
-- Portfolio: [Your Portfolio URL](#)
-- Email: [Your Email](#)
+
+## 💻 Tech Stack
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,dart)
+
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,go)
+
+### Mobile Development
+![My Skills](https://skillicons.dev/icons?i=flutter,dart)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
+
+### DevOps & Tools
+![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode)
+
+### AI & Automation
+![My Skills](https://skillicons.dev/icons?i=python,tensorflow)
+
+
