@@ -18,9 +18,6 @@
 
 ### 💻 Tech Stack
 
-
-### 💻 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nextjs,react,ts,js,nodejs,nestjs,flutter,dart,docker,aws,linux,postgres,mysql,mongodb,redis,git,github&perline=25" />
 </p>
