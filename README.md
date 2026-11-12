@@ -1,16 +1,16 @@
-Hi I am Revanth
+# Hi, I'm Revanth G 👋
 
-<!--
-**revanth-2005/revanth-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Web & Mobile Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I build scalable web applications, mobile applications, and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Working with Next.js, React, Flutter, and Node.js.
+- ⚙️ Experienced in backend development and database design.
+- 🤖 Exploring AI integrations, automation, and MCP.
+- ☁️ Currently learning AWS, Docker, and DevOps.
+- 🚀 Passionate about building real-world products and solving problems.
+
+### Let's Connect
+- LinkedIn: [Your LinkedIn URL](#)
+- Portfolio: [Your Portfolio URL](#)
+- Email: [Your Email](#)
